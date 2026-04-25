@@ -5,16 +5,16 @@ repositories {
         name = "GitHubPackages"
         url = uri("https://maven.pkg.github.com/Gordon-Frohman/Metaworlds-Mixins")
         credentials {
-            username = "[Your username here]"
-            password = "[Your access token here]"
+            username = "[Apostrcfo2]"
+            password = "[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]"
         }
     }
     maven {
         name = "GitHubPackages"
         url = uri("https://maven.pkg.github.com/Gordon-Frohman/TileEntityBreaker")
         credentials {
-            username = "[Your username here]"
-            password = "[Your access token here]"
+            username = "[Apostrcfo2]"
+            password = "[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]"
         }
     }
 }
